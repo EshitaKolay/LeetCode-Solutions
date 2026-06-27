@@ -1,6 +1,6 @@
 # 14. Longest Common Prefix
 
-### Difficulty: Easy  
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-green)
 
 Write a function to find the longest common prefix string amongst an array of strings.
 
